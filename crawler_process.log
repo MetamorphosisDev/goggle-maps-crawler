@@ -1,0 +1,97 @@
+2026-07-08 00:24:24,719 - INFO - 
+===== ACEH =====
+2026-07-08 00:24:25,838 - INFO - 🔍 Search : Restoran Banda Aceh
+2026-07-08 00:24:31,076 - INFO - ✅ 14 data baru disimpan
+2026-07-08 00:24:31,079 - INFO - ⏳ Scrolling... (14)
+2026-07-08 00:24:33,610 - INFO - ✅ 6 data baru disimpan
+2026-07-08 00:24:33,613 - INFO - ⏳ Scrolling... (20)
+2026-07-08 00:24:36,138 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:24:36,141 - INFO - ⏳ Scrolling... (27)
+2026-07-08 00:24:38,657 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:24:38,661 - INFO - ⏳ Scrolling... (34)
+2026-07-08 00:24:41,187 - INFO - ✅ 6 data baru disimpan
+2026-07-08 00:24:41,197 - INFO - ⏳ Scrolling... (40)
+2026-07-08 00:24:43,713 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:24:43,718 - INFO - ⏳ Scrolling... (47)
+2026-07-08 00:24:46,237 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:24:46,242 - INFO - ⏳ Scrolling... (54)
+2026-07-08 00:24:48,767 - INFO - ✅ 6 data baru disimpan
+2026-07-08 00:24:48,773 - INFO - ⏳ Scrolling... (60)
+2026-07-08 00:24:51,335 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:24:51,350 - INFO - ⏳ Scrolling... (67)
+2026-07-08 00:24:53,966 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:24:53,973 - INFO - ⏳ Scrolling... (74)
+2026-07-08 00:24:56,507 - INFO - ⏳ Scrolling... (74)
+2026-07-08 00:24:59,034 - INFO - ⏳ Scrolling... (74)
+2026-07-08 00:25:01,617 - INFO - ⏳ Scrolling... (74)
+2026-07-08 00:25:01,618 - INFO - 🏁 Scroll selesai
+2026-07-08 00:25:04,711 - INFO - 🔍 Search : Rumah Makan Banda Aceh
+2026-07-08 00:25:09,606 - INFO - ⏳ Scrolling... (7)
+2026-07-08 00:25:09,930 - ERROR - ❌ Error Rumah Makan Banda Aceh: Page.wait_for_timeout: Target page, context or browser has been closed
+2026-07-08 00:25:11,944 - ERROR - ❌ Error Warung Makan Banda Aceh: Locator.wait_for: Target page, context or browser has been closed
+2026-07-08 00:25:13,949 - ERROR - ❌ Error Cafe Banda Aceh: Locator.wait_for: Target page, context or browser has been closed
+2026-07-08 00:28:34,896 - INFO - 
+===== JAWA BARAT =====
+2026-07-08 00:28:35,983 - INFO - Search : Ikea Depok
+2026-07-08 00:28:40,667 - INFO - ✅ 13 data baru disimpan
+2026-07-08 00:28:40,671 - INFO - ⏳ Scrolling... (13)
+2026-07-08 00:28:43,190 - INFO - ⏳ Scrolling... (13)
+2026-07-08 00:28:45,711 - INFO - ⏳ Scrolling... (13)
+2026-07-08 00:28:48,237 - INFO - ⏳ Scrolling... (13)
+2026-07-08 00:28:48,238 - INFO - 🏁 Scroll selesai
+2026-07-08 00:28:50,790 - INFO - Total URL unik: 13
+2026-07-08 00:34:11,997 - INFO - 
+===== JAWA BARAT =====
+2026-07-08 00:34:13,161 - INFO - Search : Cafe Depok
+2026-07-08 00:34:17,994 - INFO - ✅ 14 data baru disimpan
+2026-07-08 00:34:17,998 - INFO - Scrolling... (14)
+2026-07-08 00:34:20,518 - INFO - ✅ 6 data baru disimpan
+2026-07-08 00:34:20,522 - INFO - Scrolling... (20)
+2026-07-08 00:34:23,068 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:34:23,104 - INFO - Scrolling... (27)
+2026-07-08 00:34:25,637 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:34:25,640 - INFO - Scrolling... (34)
+2026-07-08 00:34:28,160 - INFO - ✅ 6 data baru disimpan
+2026-07-08 00:34:28,165 - INFO - Scrolling... (40)
+2026-07-08 00:34:30,690 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:34:30,696 - INFO - Scrolling... (47)
+2026-07-08 00:34:33,225 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:34:33,231 - INFO - Scrolling... (54)
+2026-07-08 00:34:35,761 - INFO - ✅ 6 data baru disimpan
+2026-07-08 00:34:35,764 - INFO - Scrolling... (60)
+2026-07-08 00:34:38,314 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:34:38,341 - INFO - Scrolling... (67)
+2026-07-08 00:34:41,040 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:34:41,044 - INFO - Scrolling... (74)
+2026-07-08 00:34:43,579 - INFO - Scrolling... (74)
+2026-07-08 00:34:46,122 - INFO - Scrolling... (74)
+2026-07-08 00:34:48,661 - INFO - Scrolling... (74)
+2026-07-08 00:34:48,661 - INFO - Scroll selesai
+2026-07-08 00:34:51,726 - INFO - Search : Restoran Depok
+2026-07-08 00:34:56,482 - INFO - ✅ 5 data baru disimpan
+2026-07-08 00:34:56,485 - INFO - Scrolling... (7)
+2026-07-08 00:34:59,011 - INFO - ✅ 6 data baru disimpan
+2026-07-08 00:34:59,017 - INFO - Scrolling... (14)
+2026-07-08 00:35:01,542 - INFO - ✅ 5 data baru disimpan
+2026-07-08 00:35:01,546 - INFO - Scrolling... (20)
+2026-07-08 00:35:04,068 - INFO - ✅ 5 data baru disimpan
+2026-07-08 00:35:04,071 - INFO - Scrolling... (27)
+2026-07-08 00:35:06,604 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:35:06,609 - INFO - Scrolling... (34)
+2026-07-08 00:35:09,128 - INFO - ✅ 6 data baru disimpan
+2026-07-08 00:35:09,133 - INFO - Scrolling... (40)
+2026-07-08 00:35:11,658 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:35:11,661 - INFO - Scrolling... (47)
+2026-07-08 00:35:14,184 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:35:14,188 - INFO - Scrolling... (54)
+2026-07-08 00:35:16,708 - INFO - ✅ 6 data baru disimpan
+2026-07-08 00:35:16,712 - INFO - Scrolling... (60)
+2026-07-08 00:35:19,256 - INFO - ✅ 5 data baru disimpan
+2026-07-08 00:35:19,278 - INFO - Scrolling... (67)
+2026-07-08 00:35:22,083 - INFO - ✅ 7 data baru disimpan
+2026-07-08 00:35:22,104 - INFO - Scrolling... (74)
+2026-07-08 00:35:24,733 - INFO - Scrolling... (74)
+2026-07-08 00:35:27,266 - INFO - Scrolling... (74)
+2026-07-08 00:35:29,803 - INFO - Scrolling... (74)
+2026-07-08 00:35:29,803 - INFO - Scroll selesai
+2026-07-08 00:35:32,244 - INFO - Total URL unik: 140
