@@ -138,3 +138,12 @@ pip install pandas playwright beautifulsoup4
 ## Disclaimer
 
 Google Maps may change its page structure at any time. If that happens, some selectors used by the crawler may need to be updated for the script to continue working properly.
+
+
+
+## Acknowledgements
+
+Special thanks to the original developer(s) whose work served as the foundation of this project.
+
+This repository contains modifications, improvements, and customizations made to fit specific use cases and requirements.
+
